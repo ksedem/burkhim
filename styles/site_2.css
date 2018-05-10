@@ -1,0 +1,20 @@
+.navbar {
+	background-color:red;
+}
+navbar-fixed-top {
+	color:red;
+}
+nav navbar-nav {
+	float:right;
+	color:red;
+}
+li {
+	color:red;
+}
+li a:hover {
+	background-color: #49A7B8;
+	opacity: 0.8;
+}
+div.navbar navbar-inverse navbar-fixed-top {
+	background-color: #49A7B8;
+}
